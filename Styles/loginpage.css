@@ -1,0 +1,43 @@
+.login-page-logo{
+  width: 15%;
+  height: 5%;
+  margin: 3%;
+}
+
+.login-section{
+  align-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+.login-section-logo{
+  width: 5%;
+  height: 5%;
+  margin: 3%;
+}
+
+input{
+  border-style: solid;
+  width: 15%;
+  height: 10%;
+  padding: 0.5%;
+  margin-bottom: 1%;
+}
+
+.btn{
+  width: 10%;
+  background-color: #fc8019;
+}
+
+a{
+  color: #fc8019;
+  font-size: 1.3rem;
+}
+
+a:hover{
+  color: #fc8019;
+}
+
+p{
+  margin: 3%;
+}
